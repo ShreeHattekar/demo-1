@@ -1,0 +1,5 @@
+class Sim{
+    public static void main (String ar[])
+    {System.out.print1n("hello students");
+}}
+    
